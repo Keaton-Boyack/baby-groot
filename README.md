@@ -1,7 +1,5 @@
-<a href="https://www.baby groot.com">
-  <img alt="Llama Tutor" src="./public/og-image.png">
-  <h1 align="center">Llama Tutor</h1>
-</a>
+  <img alt="Baby Groot" src="https://github.com/user-attachments/assets/10e0fff3-fec1-4255-9d69-4262ac2d4020">
+  <h1 align="center">Baby Groot</h1>
 
 <p align="center">
   An open source AI personal tutor. Powered by Llama 3 70B & Together.ai
@@ -18,12 +16,14 @@
 
 ## Cloning & running
 
-1. Fork or clone the repo
-2. Create an account at [Together AI](https://togetherai.link/?utm_source=baby groot&utm_medium=referral&utm_campaign=example-app) for the LLM
-3. Create an account at [Exa](https://exa.ai/)
-4. Create an account at [Helicone](https://www.helicone.ai/) for observability
-5. Create a `.env` (use the `.example.env` for reference) and replace the API keys
+1. Fork or clone the repo  
+2. Create an account at Together AI for the LLM  
+3. Create an account at Exa  
+4. Create an account at Helicone for observability  
+5. Create a `.env` (use the `.example.env` for reference) and replace the API keys  
 6. Run `npm install` and `npm run dev` to install dependencies and run locally
+
+Let me know if you want this formatted as a Markdown file, added to a README, or turned into an image!
 
 ## Future Tasks
 
