@@ -1,6 +1,7 @@
   <img alt="Baby Groot" src="https://github.com/user-attachments/assets/10e0fff3-fec1-4255-9d69-4262ac2d4020">
   <h1 align="center">Baby Groot</h1>
 
+
 <p align="center">
   An open source AI personal tutor. Powered by Llama 3 70B & Together.ai
 </p>
