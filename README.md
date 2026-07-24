@@ -5,6 +5,8 @@
   An open-source AI-powered personal tutor, built on Llama 3 70B and Together.ai.
 </p>
 
+
+2DUvnwF4ydHya3y4UJjmd1oFiY4THg1fgYkK2tKXpump
 ## Tech Stack
 - Meta's Llama 3.1 70B as the language model
 - Together AI to handle LLM inference
